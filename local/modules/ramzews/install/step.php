@@ -1,2 +1,2 @@
 <?php
-echo CAdminMessage::ShowNote('Вы установили модуль Globus library');
+echo CAdminMessage::ShowNote('Вы установили модуль RamZEWS library');

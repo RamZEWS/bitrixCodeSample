@@ -1,2 +1,2 @@
 <?php
-echo CAdminMessage::ShowNote('Вы удалили модуль Globus library');
+echo CAdminMessage::ShowNote('Вы удалили модуль RamZEWS library');
