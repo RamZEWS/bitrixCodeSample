@@ -115,9 +115,6 @@ if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true)
             <?
             }
             ?>
-            <div class="col-xs-12 bottom-text">
-                <?= GetMessage("CNT_CTC_MEDIA"); ?>
-            </div>
         </div>
 
     </div>
